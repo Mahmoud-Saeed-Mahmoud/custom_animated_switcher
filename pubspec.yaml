@@ -1,0 +1,17 @@
+name: custom_animated_switcher
+description: "A Flutter widget for animated transitions. Supports clip, slide, & fade effects when switching between two widgets. Highly customizable."
+repository: https://github.com/Mahmoud-Saeed-Mahmoud/custom_animated_switcher
+homepage: https://mahmoud-saeed-mahmoud.github.io/custom_animated_switcher/
+
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
